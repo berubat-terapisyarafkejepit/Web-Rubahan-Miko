@@ -33,7 +33,10 @@ export default buildConfig({
     pool: {
       connectionString: process.env.DATABASE_URL || '',
     },
-    push: true,
+    // DB ini dipakai bersama Prisma (Booking, Admin, dll.). `push: true` akan DROP tabel yang bukan schema Payload.
+    // Aktifkan hanya saat mengembangkan schema Payload di DB kosong / migrasi Payload:
+    // PAYLOAD_DATABASE_PUSH=true bun dev
+    push: process.env.PAYLOAD_DATABASE_PUSH === 'true',
   }),
   collections: [CmsUsers, Media, Services, Advantages, GalleryItems, Posts],
   globals: [Homepage, SiteSettings],
