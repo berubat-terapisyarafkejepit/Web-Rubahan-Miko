@@ -1,0 +1,11 @@
+{"sessionId":"1144a6","runId":"initial","hypothesisId":"H1","location":"src/proxy.ts:8","message":"Proxy route evaluation","data":{"path":"/admin/login","isLoggedIn":false,"isAdminRoute":true,"isLoginPage":true},"timestamp":1777110307950}
+{"sessionId":"1144a6","runId":"initial","hypothesisId":"H1","location":"src/proxy.ts:8","message":"Proxy route evaluation","data":{"path":"/admin/login","isLoggedIn":false,"isAdminRoute":true,"isLoginPage":true},"timestamp":1777110308100}
+{"sessionId":"1144a6","runId":"initial","hypothesisId":"H1","location":"src/proxy.ts:8","message":"Proxy route evaluation","data":{"path":"/admin/login","isLoggedIn":false,"isAdminRoute":true,"isLoginPage":true},"timestamp":1777110510182}
+{"sessionId":"1144a6","runId":"initial","hypothesisId":"H2","location":"src/lib/auth.ts:19","message":"Authorize called","data":{"hasUsername":true,"hasPassword":true},"timestamp":1777110518473}
+{"sessionId":"1144a6","runId":"initial","hypothesisId":"H2","location":"src/lib/auth.ts:19","message":"Authorize called","data":{"hasUsername":true,"hasPassword":true},"timestamp":1777110531561}
+{"sessionId":"1144a6","runId":"initial","hypothesisId":"H2","location":"src/lib/auth.ts:19","message":"Authorize called","data":{"hasUsername":true,"hasPassword":true},"timestamp":1777110557971}
+{"sessionId":"1144a6","runId":"initial","hypothesisId":"H2","location":"src/lib/auth.ts:19","message":"Authorize called","data":{"hasUsername":true,"hasPassword":true},"timestamp":1777110563066}
+{"sessionId":"1144a6","runId":"initial","hypothesisId":"H2","location":"src/lib/auth.ts:19","message":"Authorize called","data":{"hasUsername":true,"hasPassword":true},"timestamp":1777110569409}
+{"sessionId":"1144a6","runId":"initial","hypothesisId":"H2","location":"src/lib/auth.ts:19","message":"Authorize called","data":{"hasUsername":true,"hasPassword":true},"timestamp":1777110573220}
+{"sessionId":"1144a6","runId":"initial","hypothesisId":"H1","location":"src/proxy.ts:8","message":"Proxy route evaluation","data":{"path":"/admin/login","isLoggedIn":false,"isAdminRoute":true,"isLoginPage":true},"timestamp":1777110601783}
+{"sessionId":"1144a6","runId":"initial","hypothesisId":"H2","location":"src/lib/auth.ts:19","message":"Authorize called","data":{"hasUsername":true,"hasPassword":true},"timestamp":1777110610197}

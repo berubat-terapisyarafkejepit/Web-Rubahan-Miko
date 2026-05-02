@@ -1,0 +1,19 @@
+{"sessionId":"fc8519","hypothesisId":"H-A-postfix","location":"admin/(panel)/layout.tsx","message":"PanelLayout fired (post-fix)","data":{},"timestamp":1774696574221}
+{"sessionId":"fc8519","hypothesisId":"H-A-postfix","location":"admin/(panel)/layout.tsx","message":"PanelLayout fired (post-fix)","data":{},"timestamp":1774696574290}
+{"sessionId":"fc8519","hypothesisId":"H-A-postfix","location":"admin/(panel)/layout.tsx","message":"PanelLayout fired (post-fix)","data":{},"timestamp":1774696574304}
+{"sessionId":"fc8519","hypothesisId":"H-A-postfix","location":"admin/(panel)/layout.tsx","message":"PanelLayout fired (post-fix)","data":{},"timestamp":1774696574418}
+{"sessionId":"fc8519","hypothesisId":"H-B","location":"proxy.ts:5","message":"Proxy fired","data":{"path":"/admin/login","isLoggedIn":false,"isLoginPage":true},"timestamp":1774696633660}
+{"sessionId":"fc8519","hypothesisId":"H-B","location":"proxy.ts:5","message":"Proxy fired","data":{"path":"/admin","isLoggedIn":true,"isLoginPage":false},"timestamp":1774696665699}
+{"sessionId":"fc8519","hypothesisId":"H-A-postfix","location":"admin/(panel)/layout.tsx","message":"PanelLayout fired (post-fix)","data":{},"timestamp":1774696668440}
+{"sessionId":"fc8519","hypothesisId":"H-B","location":"proxy.ts:5","message":"Proxy fired","data":{"path":"/admin","isLoggedIn":true,"isLoginPage":false},"timestamp":1774696669027}
+{"sessionId":"fc8519","hypothesisId":"H-A-postfix","location":"admin/(panel)/layout.tsx","message":"PanelLayout fired (post-fix)","data":{},"timestamp":1774696669143}
+{"sessionId":"fc8519","hypothesisId":"H-B","location":"proxy.ts:5","message":"Proxy fired","data":{"path":"/admin/booking","isLoggedIn":true,"isLoginPage":false},"timestamp":1774696735683}
+{"sessionId":"fc8519","hypothesisId":"H-B","location":"proxy.ts:5","message":"Proxy fired","data":{"path":"/admin/booking","isLoggedIn":true,"isLoginPage":false},"timestamp":1774696812677}
+{"sessionId":"fc8519","hypothesisId":"H-B","location":"proxy.ts:5","message":"Proxy fired","data":{"path":"/admin/booking","isLoggedIn":true,"isLoginPage":false},"timestamp":1774696813867}
+{"sessionId":"fc8519","hypothesisId":"H-B","location":"proxy.ts:5","message":"Proxy fired","data":{"path":"/admin/booking","isLoggedIn":true,"isLoginPage":false},"timestamp":1774696815311}
+{"sessionId":"fc8519","hypothesisId":"H-B","location":"proxy.ts:5","message":"Proxy fired","data":{"path":"/admin/booking","isLoggedIn":true,"isLoginPage":false},"timestamp":1774696816228}
+{"sessionId":"fc8519","hypothesisId":"H-B","location":"proxy.ts:5","message":"Proxy fired","data":{"path":"/admin/booking","isLoggedIn":true,"isLoginPage":false},"timestamp":1774696817244}
+{"sessionId":"fc8519","hypothesisId":"H-B","location":"proxy.ts:5","message":"Proxy fired","data":{"path":"/admin/booking","isLoggedIn":true,"isLoginPage":false},"timestamp":1774696817731}
+{"sessionId":"fc8519","hypothesisId":"H-B","location":"proxy.ts:5","message":"Proxy fired","data":{"path":"/admin/booking","isLoggedIn":true,"isLoginPage":false},"timestamp":1774696824660}
+{"sessionId":"fc8519","hypothesisId":"H-B","location":"proxy.ts:5","message":"Proxy fired","data":{"path":"/admin/booking","isLoggedIn":true,"isLoginPage":false},"timestamp":1774696824954}
+{"sessionId":"fc8519","hypothesisId":"H-B","location":"proxy.ts:5","message":"Proxy fired","data":{"path":"/admin/testimoni","isLoggedIn":true,"isLoginPage":false},"timestamp":1774696828334}
